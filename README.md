@@ -19,7 +19,7 @@ DBPal is an AI-powered system that allows users to interact with a local MySQL s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mozito02/dbpal.git
+   git clone https://github.com/mozito02/DBpal.git
    cd dbpal
    ```
 
